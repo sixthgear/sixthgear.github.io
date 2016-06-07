@@ -39,5 +39,4 @@ If you'd like to get in touch *for any reason whatsoever*, please feel free
 to email me at hello@joshuacender.com.
 
 [1]: http://sixthgear.ca "Sixth Gear Software Inc."
-[1]: http://gastowncollective.com "Gastown Collective"
-[2]: https://en.wikipedia.org/wiki/Micro_ISV " Micro Independent Software Vendor"
+[2]: http://gastowncollective.com "Gastown Collective"
