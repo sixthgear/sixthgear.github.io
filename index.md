@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Joshua Cender
 ---
 
 # Hello, I'm Josh!
