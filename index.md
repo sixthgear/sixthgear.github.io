@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
-**Hello, I'm Josh!** I'm an experienced entrepreneur/engineer from
-Vancouver, British Columbia. I love business and software, and I'm
-always looking for opportunities to connect them.
+# Hello, I'm Josh!
+
+My name is **Joshua Cender** and I'm an experienced entrepreneur/engineer from
+Vancouver, British Columbia. My two favorite topics are *business* and *software*;
+I'm always looking for new opportunities to connect them!
 
 
 <div class="project-logos">
@@ -32,11 +34,21 @@ always looking for opportunities to connect them.
     </div>
 </div>
 
-My main focus is **[Sixth Gear Software][1]**, a software consultancy I opened in 2012.
-We're dedicated to helping our customers launch exciting new apps and digital products.
+My main focus is **[Sixth Gear Software][1]**, a software consultancy I founded in 2012.
+Sixth Gear is dedicated to helping our customers plan and launch exciting new digital products.
+I'm available for consulting engagements through my company.
+
+<a class="btn btn-default" href="http://sixthgear.ca">Visit Sixth Gear Software Inc.</a>
+
+<br>
 
 I'm also one of the founders of **[Gastown Collective][2]**, a creative co-working
-community located in downtown Vancouver.
+community located in Vancouver. Our goal is to provide an inspiring, downtown workspace for
+creative freelancers and entrepreneurs.
+
+<a class="btn btn-default" href="http://gastowncollective.com">Visit Gastown Collective</a>
+
+<br>
 
 If you'd like to get in touch *for any reason whatsoever*, please feel free
 to email me at hello@joshuacender.com.
