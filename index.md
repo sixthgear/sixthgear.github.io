@@ -4,8 +4,8 @@ title: Home
 ---
 
 **Hello, I'm Josh!** I'm an experienced entrepreneur/engineer from
-Vancouver, British Columbia. I love building businesses and software,
-and I'm always on the look out for new opportunities to do both.
+Vancouver, British Columbia. I love business and software, and I'm
+always looking for opportunities to connect them.
 
 
 <div class="project-logos">
