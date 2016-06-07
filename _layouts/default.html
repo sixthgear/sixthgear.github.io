@@ -1,20 +1,43 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <body>
+        <title>
+            {% if page.title %}
+                {{ page.title | escape }} | {{ site.title | escape }}
+            {% else %}
+                {{ site.title | escape }}
+            {% endif %}
+        </title>
 
-    {% include header.html %}
+        <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+        <link rel="stylesheet" href="{{ "/css/site.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
-    {% include footer.html %}
+        <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    </head>
 
-  </body>
+
+    <body>
+
+        <div class="container">
+        <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+
+            {% include header.html %}
+            {{ content }}
+            {% include footer.html %}
+
+        </div>
+        </div>
+        </div>
+
+    </body>
 
 </html>
