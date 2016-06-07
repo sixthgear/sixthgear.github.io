@@ -1,0 +1,46 @@
+---
+---
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,600|Sumana:400,700);
+@import "variables";
+@import "bootstrap";
+
+header.site-header {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+footer.site-footer {
+    margin-top: 4em;
+    margin-bottom: 2em;
+}
+
+.nav a {
+    padding-right: 20px;
+}
+
+.project-logos {
+    margin-top: 3em;
+    margin-bottom: 3em;
+
+    .tile {
+
+        text-align: center;
+
+        img {
+            // -moz-border-radius: 3px;
+            // -webkit-border-radius: 3px;
+            // border-radius: 3px;
+            // border: 1px solid #666;
+            width: 100%;
+        }
+    }
+
+}
+.icons {
+
+    text-align: center;
+
+    a {
+        padding: 0px 10px;
+    }
+}
