@@ -23,8 +23,11 @@ and I'm always on the look out for new opportunities to do both.
             <small>Gastown Collective</small>
         </a>
     </div>
-    <div class="col-xs-4">
-
+    <div class="col-xs-4 tile">
+        <a href="https://www.youtube.com/playlist?list=PLESkaKkZpJsNPQnVNLPu2JU6y6vBMe-t3">
+            <img src="/assets/img/heroes.png">
+            <small>Dead Heroes</small>
+        </a>
     </div>
     </div>
 </div>
