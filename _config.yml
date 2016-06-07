@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://joshuacender.com" # the base hostname & protocol for your site
 github_username:  sixthgear
 linkedin_username: joshua-cender-58238113
+google_analytics: UA-78892820-1
 
 # Build settings
 markdown: kramdown
