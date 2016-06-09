@@ -26,9 +26,9 @@ I'm always looking for new opportunities to connect them!
         </a>
     </div>
     <div class="col-xs-4 tile">
-        <a href="https://www.youtube.com/playlist?list=PLESkaKkZpJsNPQnVNLPu2JU6y6vBMe-t3">
+        <a href="https://quitjobmakegames.com">
             <img src="/assets/img/heroes.png">
-            <small>Dead Heroes</small>
+            <small>Quit Job; Make Games</small>
         </a>
     </div>
     </div>
