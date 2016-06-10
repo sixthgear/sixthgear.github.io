@@ -38,7 +38,7 @@ My main focus is **[Sixth Gear Software][1]**, a software consultancy I founded 
 Sixth Gear is dedicated to helping our customers plan and launch exciting new digital products.
 I'm available for consulting engagements through my company.
 
-<a class="btn btn-default" href="http://sixthgear.ca">Visit Sixth Gear Software Inc.</a>
+<!-- <a class="btn btn-default" href="http://sixthgear.ca">Visit Sixth Gear Software Inc.</a> -->
 
 <br>
 
@@ -46,7 +46,7 @@ I'm also one of the founders of **[Gastown Collective][2]**, a creative co-worki
 community located in Vancouver. Our goal is to provide an inspiring, downtown workspace for
 creative freelancers and entrepreneurs.
 
-<a class="btn btn-default" href="http://gastowncollective.com">Visit Gastown Collective</a>
+<!-- <a class="btn btn-default" href="http://gastowncollective.com">Visit Gastown Collective</a> -->
 
 <br>
 
